@@ -1,0 +1,66 @@
+body {
+    font-family: 'Krona One', sans-serif;
+}
+
+#intro {
+    align-items: center;
+    justify-content: center;
+    padding: 0 60px;
+    font-size: 2rem;
+    margin-bottom: -40px;
+}
+
+#info {
+    align-items: center;
+    justify-content: center;
+    font-size: 1rem;
+    padding: 60px;
+    font-weight: 100;
+    text-align: justify;
+    width: 80%;
+}
+
+.illus {
+    background-color: aquamarine;
+}
+
+.mg {
+    background-color: rgb(152, 106, 182);
+}
+
+.code {
+    background-color: rgb(255, 135, 171);
+}
+
+a  {
+    color:black
+}
+
+#proj {
+    align-items: center;
+    justify-content: center;
+    font-size: 1rem;
+    padding: 60px;
+    font-weight: 100;
+    text-align: justify;
+    width: 80%;
+}
+
+.projh1 {
+    align-items: center;
+    justify-content: center;
+    text-align: left;
+}
+
+.projtitle {
+    display: inline-block;
+}
+
+#proj a {
+    color: rgb(255, 135, 171);
+}
+
+img {
+    width: 25%;
+    height: 100%;
+}
